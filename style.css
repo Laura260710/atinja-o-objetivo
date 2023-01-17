@@ -1,0 +1,21 @@
+.bidyBackground 
+{
+    background-position: center;
+    background-size:contain;
+	background:url(grama.jpg);
+}
+#myCanvas
+{
+    border-width:10px;
+    border-style:ridge;
+	background-color:rgb(87, 210, 87);
+}
+
+
+#hd3{
+	display: inline-block;
+	color: rgb(255, 0, 234);
+	background-color: aliceblue;
+	font-family: 'Nerko One', cursive;
+}
+
